@@ -1,0 +1,226 @@
+2020-03-01 18:59:05 DEBUG MyCustomList:15 - This is a custom list:-----
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - Shinchan
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - Pokemon
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - Doraemon
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - Chota Bheem
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:18 - The size of custom List is 10
+2020-03-01 18:59:05 DEBUG MyCustomList:20 - After inserting at index positon 3
+The old value is:Doraemon
+2020-03-01 18:59:05 DEBUG MyCustomList:22 - The custom list is-----
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - Shinchan
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - Pokemon
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - Tom and Jerry
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - Chota Bheem
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:36 - null
+2020-03-01 18:59:05 DEBUG MyCustomList:27 - The element at index 5 is :Kiteretsu
+2020-03-01 19:04:02 DEBUG MyCustomList:15 - This is a custom list:-----
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - Shinchan
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - Pokemon
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - Doraemon
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - Chota Bheem
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:18 - The size of custom List is 10
+2020-03-01 19:04:02 DEBUG MyCustomList:20 - After inserting at index positon 3
+The old value is:Doraemon
+2020-03-01 19:04:02 DEBUG MyCustomList:22 - The custom list is-----
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - Shinchan
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - Pokemon
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - Tom and Jerry
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - Chota Bheem
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:36 - null
+2020-03-01 19:04:02 DEBUG MyCustomList:27 - The element at index 5 is :Kiteretsu
+2020-03-01 19:06:43 DEBUG MyCustomList:15 - This is a custom list:-----
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - Shinchan
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - Pokemon
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - Doraemon
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - Chota Bheem
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:18 - The size of custom List is 10
+2020-03-01 19:06:43 DEBUG MyCustomList:20 - After inserting at index positon 3
+The old value is:Doraemon
+2020-03-01 19:06:43 DEBUG MyCustomList:22 - The custom list is-----
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - Shinchan
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - Pokemon
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - Tom and Jerry
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - Chota Bheem
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:36 - null
+2020-03-01 19:06:43 DEBUG MyCustomList:30 - The element at index 5 is :Kiteretsu
+2020-03-01 19:19:59 DEBUG MyCustomList:18 - This is a custom list:-----
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Shinchan
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Pokemon
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Doraemon
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Chota Bheem
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Kiteretsu
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Pingu the penguin
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Ninga Hattori
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Mr.Bean
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - null
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - null
+2020-03-01 19:19:59 DEBUG MyCustomList:21 - The size of custom List is 10
+2020-03-01 19:19:59 DEBUG MyCustomList:23 - After inserting at index positon 3
+The old value is:Doraemon
+2020-03-01 19:19:59 DEBUG MyCustomList:25 - The custom list is-----
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Shinchan
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Pokemon
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Tom and Jerry
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Chota Bheem
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Kiteretsu
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Pingu the penguin
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Ninga Hattori
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - Mr.Bean
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - null
+2020-03-01 19:19:59 DEBUG MyCustomList:39 - null
+2020-03-01 19:19:59 DEBUG MyCustomList:28 - The element at index 5 is :Kiteretsu
+2020-03-01 19:32:03 DEBUG MyCustomList:18 - This is a custom list which has list of cartoons:-----
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Shinchan
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Pokemon
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Doraemon
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - null
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - null
+2020-03-01 19:32:03 DEBUG MyCustomList:21 - The size of custom List is 10
+2020-03-01 19:32:03 DEBUG MyCustomList:23 - After inserting at index positon 3	The old value is:Doraemon
+2020-03-01 19:32:03 DEBUG MyCustomList:25 - The custom list is-----
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Shinchan
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Pokemon
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Tom and Jerry
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - null
+2020-03-01 19:32:03 DEBUG MyCustomList:37 - null
+2020-03-01 19:32:03 DEBUG MyCustomList:28 - The element at index 5 is :Kiteretsu
+2020-03-01 19:36:09 DEBUG MyCustomList:18 - This is a custom list which has list of cartoons:-----
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Shinchan
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Pokemon
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Doraemon
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - null
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - null
+2020-03-01 19:36:09 DEBUG MyCustomList:21 - The size of custom List is 10
+2020-03-01 19:36:09 DEBUG MyCustomList:23 - After inserting at index positon 3	The old value is:Doraemon
+2020-03-01 19:36:09 DEBUG MyCustomList:25 - The custom list is-----
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Shinchan
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Pokemon
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Tom and Jerry
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - null
+2020-03-01 19:36:09 DEBUG MyCustomList:37 - null
+2020-03-01 19:36:09 DEBUG MyCustomList:28 - The element at index 5 is :Kiteretsu
+2020-03-01 19:37:24 DEBUG MyCustomList:18 - This is a custom list which has list of cartoons:-----
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Shinchan
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Pokemon
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Doraemon
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - null
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - null
+2020-03-01 19:37:24 DEBUG MyCustomList:21 - The size of custom List is 10
+2020-03-01 19:37:24 DEBUG MyCustomList:23 - After inserting at index positon 3	The old value is:Doraemon
+2020-03-01 19:37:24 DEBUG MyCustomList:25 - The custom list is-----
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Shinchan
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Pokemon
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Tom and Jerry
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - null
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - null
+2020-03-01 19:37:24 DEBUG MyCustomList:28 - The element at index 5 is :Kiteretsu
+2020-03-01 19:37:24 DEBUG MyCustomList:31 - After removing element at index 3 the list is
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Shinchan
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Pokemon
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - null
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - null
+2020-03-01 19:37:24 DEBUG MyCustomList:37 - null
+2020-03-03 22:35:22 DEBUG MyCustomList:18 - This is a custom list which has list of cartoons:-----
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Shinchan
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Pokemon
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Doraemon
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - null
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - null
+2020-03-03 22:35:22 DEBUG MyCustomList:21 - The size of custom List is 10
+2020-03-03 22:35:22 DEBUG MyCustomList:23 - After inserting at index positon 3	The old value is:Doraemon
+2020-03-03 22:35:22 DEBUG MyCustomList:25 - The custom list is-----
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Shinchan
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Pokemon
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Tom and Jerry
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - null
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - null
+2020-03-03 22:35:22 DEBUG MyCustomList:28 - The element at index 5 is :Kiteretsu
+2020-03-03 22:35:22 DEBUG MyCustomList:31 - After removing element at index 3 the list is
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Shinchan
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Pokemon
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Chota Bheem
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Kiteretsu
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Pingu the penguin
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Ninga Hattori
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - Mr.Bean
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - null
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - null
+2020-03-03 22:35:22 DEBUG MyCustomList:37 - null
